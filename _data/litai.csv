@@ -1,0 +1,53 @@
+pid,label,author,orig_pub_date,obj_pub_date,publisher,location,case,have_images
+i01,Conjectures on Original Composition,Edward Young,1759,1759,A. Miller and R. and J. Dodsley,RBML,1,No
+i02,"""Philosophy of Composition""",Edgar Allen Poe,1846,1880,"Ward, Lock, Bowden & Co",RBML,1,No
+i03,"Adonais, an elegy on the death of John Keats ",Percy Bysshe Shelley,1821,1922,J.H. Nash,RBML,1,Yes
+i04,The Analysis of Play Construction,Willliam Price,1908,1908,William Price,RBML,1,Yes
+i05,Constructive Course,William Price,c. 1903-20,c. 1903-20,,RBML,1,Yes
+i06,ABC of Reading,Ezra Pound ,1934,1934,Yale University Press,RBML,1,No 
+i07,"The Fiction Factory: Being the Experience of a Writer Who, for Twenty-Two Years, Has Kept a Story-Mill Grinding Successfully ",John Milton Edwards (William Wllace Cook),1912,1912,The Editor Company,Butler Stacks,1,Yes
+i08,Types of Prose Narraitves,Harriot Fansler,1911,1911,"Row, Peterson and Co.",RBML,2,Maybe
+i09,The Thirty-Six Dramatic Situations,George Polti (translated by Lucille Ray),1895,1917,The Editor Company,RBML,2,Yes
+i10,"Morphology of the Folktale, ""Techniques of Analysis"" ",Vladimir Propp (translated by Laurence Scott),1928,1968,University of Texas Press,RBML,2,Yes
+i11,"Morphology of the Folktale, Diagram of Possible Function Combinations",Vladimir Propp (translated by Laurence Scott),1928,1968,University of Texas Press,RBML,2,Yes
+i12,Plot Genie Index,Wycliffe Hill,1931,1935,Glendale Academy Press,RBML,3,Yes
+i13,Plot Robot ,Wycliffe Hill,,,,RBML,3,Maybe
+i14,Plot Genie: Comedy,Wycliffe Hill,1936,1936,Glendale Academy Press,RBML,3,
+i15,Plot Genie: Plot Scientific,Wycliffe Hill,1940,1940,Glendale Academy Press,RBML,3,
+i16,Plotto: A New Method of Plot Suggestions for Writers of Creative Fiction,William Wallace Cook,1928,,,RBML,3,Maybe
+i17,"""Movie-writer"" Patent, Patent no. US1198401A",Arthur Blanchard,1916,1916,US Patent,US Patent Records,3,Yes
+i18,"""Name-selector"" Patent, Patent no. US2425197A",Henrietta Rosa Montague,1944,1944,US Patent,US Patent Records,3,Yes
+i19,"""The Mechanics (and Kinematics) of Web Work Plot Construction"", Diagram of The Voice of the Seven Sparrows ",Harry Stephen Keeler,1928,1928,"The Author and Journalist, October 1928",RBML,5,Yes
+i20,Voice of the Seven Sparrows,Harry Stephen Keeler,1924,1928,E.P. Dutton & Co. ,RBML,5,Yes
+i21,"""How to Write Book-Length Mystery Stories""",Harry Stephen Keeler,1931,1931,The Writer's 1931 Year Book and Market Guide,RBML,5,Yes
+i22,Technique of the Mystery Story,Carolyn Wells,1913,1929,Home Correspondence School,RBML,5,Yes
+i23,Mark Twain's Self-Gumming Scrapbook  ,TBD,1873,1873,"Slote, Woodman & Co. NY",RBML,6,No 
+i24,"Advertisement for ""Chautauqua Literary Files""",The Education Specialty Company,1900,1900,St. Luis Medical Review,,6,Yes
+i25,"""The Value and Service of Note Cards to the Writer""",Lyfford Hanes,1909,1909,"The Editor, XXIX June 1909",,6,No
+i26,Universal Plot Catalogue,Henry Phillips,1920,1920,The Home Correspondence School,RBML,6,Yes
+i27,Automatic Plot Collector,Henry Phillips,1920,1920,The Home Correspondence School,RBML,6,Yes
+i28,Ars brevis (Plimpton MS 187),Ramon Llull,1305,Second half 15th century,,RBML,,Yes
+i29,"""Mr. Furbush""",Harriet Elizabeth Prescott Spofford,1865,1865,Harper's New Monthly Magazine ,Butler Stacks,4,Yes
+i30,"""The Horses of Bostil Ford""",Zane Grey,1912,1912,Munsey's Magazine,Butler Stacks,4,Yes
+i31,"""His House Forlorn""",Lucia Chamberlin,1909,1909,Century Illustrated Monthly Magazine,Butler Stacks,4,Yes
+i32,"""The Woman across the Street And the Cause of Her Neighbors' Change of Heart""",Inex Haynes Gillmore Irwin,1913,1913,Ladies' Home Journal,Butler Stacks,4,Yes
+i33,"""ELIZA-- a Computer Program for the Study of Natural Language Communication Between Man and Machine""",Joseph Weizenbaum,1966,1966,Communications of the ACM,Butler Stacks,7,Yes
+i34,Baseball: An Automatic Question-Answerer,"Bert Green, Alice Wolf, Carol Chomsky, and Kenneth Laughery",1963,1963,MIT Lincoln Library,Butler Stacks,7,Yes
+i35,“The Metanovel: Writing Stories by Computer”,James Meehan,1976,1976,"Yale University, Department of Computer Science",,7,Yes
+i36,“Random Generation of English Sentences”,Victor Yngve,1961,1961,International Conference on Machine Translation of Languages Proceedings,Butler Stacks,7,Yes
+i37,The Little Train,Lois Lenski,1940,1940,Oxford University Press,Butler Stacks,7,Yes
+i38,"""Modeling Propp and Levi-Strauss in a Meta-Symbolic Simulation System” ",Sheldon Klein et al. ,1974,1977,Conference on Structure in Oral Literature Proceedings,Butler Stacks,7,Yes 
+i39,"""Haiku Generator"" (from Cybernetic Serendepity: the computer and the arts) ",Margaret Masterman,1968,1968,Praeger,Avery,7,Yes 
+i40,"""Computerized Haiku"" (from Cybernetics, Art and Ideas)",Margaret Masterman,1971,1971,New York Graphic Society,Avery,7,Yes
+i41,"Language, Cohesion, and Form ",Margaret Masterman,2005,2005,Cambridge University Press,,7,Yes
+i42,"“ACS.1: An Experimental Automated Command Support System” (from IEEE transactions on systems, man, and cybernetics)",M.C. Pease,1978,1978,Institute of Electrical and Electronics Engineers,Butler Stacks,8,Yes
+i43,"""Story Generation and Aviation Incident Representation,"" Incident Reports",Peter Clark,1999,1999,The Boeing Company,Not in library ,8,Yes
+i44,"""Story Generation and Aviation Incident Representation,"" Code",Peter Clark,1999,1999,The Boeing Company,Not in library ,8,Yes
+i45,"""Computing Machinery and Intelligence""",Alan Turing ,1950,1950,Mind: a quarterly review of psychology and philosophy,RBML,8,Yes 
+i46,Photo of Christopher Strachey's Love Machine (in Heart Machine),David Link,2012,2012,Hatje Cantz,Butler Stacks,8,Yes
+i47,"""Operation Match"" Advertisment",Operation Match,1966,1966,Columbia Spectator,University Archives,8,Yes
+i48,"""New Rules for the Singles Game""",,1967,1967,Life Magazine,Butler Stacks,8,Yes
+i49,“What’s new in scholarly books?” ,,1974,1974,Yankee Book Peddler,Not in library ,8,Yes
+i50,"“Manual Continuations Processing at Yankee Book Peddler Inc."" ",Douglas Duchin and John R. Secor,1980,1980,Serials Review,Butler Stacks,8,Yes
+i51,“Online Ordering: Making its Mark”  ,Anne Heller and Elizabeth Lorenzen,1999,1999,Library Journal,Butler Stacks,8,Yes
+i52,"MARC, its history and implications",Henriette Avram,1975,1975,Library of Congress,Butler Stacks,8,Yes
