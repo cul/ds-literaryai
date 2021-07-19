@@ -19,7 +19,7 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'Literary AI'
-description:      ''
+description:      'Lorem ipsum'
 url:              ''
 baseurl:          '/litai'
 copyright:        'Copyright 2021, Columbia University Libraries. Contents offered with a CC-BY 4.0 International License'
