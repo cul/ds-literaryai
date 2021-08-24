@@ -8,9 +8,9 @@ banner:
   height: '500px'
 ---
 
-__Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ipsum suspendisse ultrices gravida dictum fusce ut. At tellus at urna condimentum mattis. Cursus sit amet dictum sit amet justo donec enim. Cursus risus at ultrices mi tempus imperdiet nulla. Purus non enim praesent elementum facilisis leo vel fringilla est. Augue lacus viverra vitae congue eu consequat. Nec nam aliquam sem et tortor consequat id porta. Feugiat in fermentum posuere urna nec tincidunt. Nullam ac tortor vitae purus faucibus ornare suspendisse sed.
 
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+Risus nullam eget felis eget. Tortor dignissim convallis aenean et tortor at risus. Lacus sed viverra tellus in hac habitasse. Ultricies tristique nulla aliquet enim tortor. Nunc sed augue lacus viverra vitae congue eu. Nulla malesuada pellentesque elit eget gravida cum. Cras ornare arcu dui vivamus. Velit egestas dui id ornare arcu odio ut sem. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Vehicula ipsum a arcu cursus vitae congue mauris rhoncus aenean.
 
 ### Browse the Collection
 
