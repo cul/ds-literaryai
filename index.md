@@ -12,6 +12,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Risus nullam eget felis eget. Tortor dignissim convallis aenean et tortor at risus. Lacus sed viverra tellus in hac habitasse. Ultricies tristique nulla aliquet enim tortor. Nunc sed augue lacus viverra vitae congue eu. Nulla malesuada pellentesque elit eget gravida cum. Cras ornare arcu dui vivamus. Velit egestas dui id ornare arcu odio ut sem. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Vehicula ipsum a arcu cursus vitae congue mauris rhoncus aenean.
 
-### Browse the Collection
+### Browse the Collection by Case
 
 {% include collection_gallery.html facet_by='case' collection='litai' %}
