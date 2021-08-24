@@ -39,7 +39,7 @@ exclude:
   - vendor
   - spec
   - README.md
-incremental: true
+incremental: false
 webrick:
   headers:
     'Access-Control-Allow-Origin': '*'
