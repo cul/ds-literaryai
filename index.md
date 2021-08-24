@@ -14,4 +14,4 @@ Risus nullam eget felis eget. Tortor dignissim convallis aenean et tortor at ris
 
 ### Browse the Collection by Case
 
-{% include collection_gallery.html facet_by='case' collection='litai' %}
+{% include collection_gallery.html facet_by='number' collection='cases' %}

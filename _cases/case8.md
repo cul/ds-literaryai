@@ -19,4 +19,6 @@ number: '8'
 order: '7'
 layout: case
 collection: cases
+thumbnail: "/img/derivatives/simple/case8/thumbnail.jpg"
+full: "/img/derivatives/simple/case8/fullwidth.jpg"
 ---

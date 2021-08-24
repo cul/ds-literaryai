@@ -11,4 +11,6 @@ number: '4'
 order: '3'
 layout: case
 collection: cases
+thumbnail: "/img/derivatives/simple/case4/thumbnail.jpg"
+full: "/img/derivatives/simple/case4/fullwidth.jpg"
 ---

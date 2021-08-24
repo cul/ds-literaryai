@@ -34,4 +34,6 @@ number: '7'
 order: '6'
 layout: case
 collection: cases
+thumbnail: "/img/derivatives/simple/case7/thumbnail.jpg"
+full: "/img/derivatives/simple/case7/fullwidth.jpg"
 ---

@@ -22,4 +22,6 @@ number: '6'
 order: '5'
 layout: case
 collection: cases
+thumbnail: "/img/derivatives/simple/case6/thumbnail.jpg"
+full: "/img/derivatives/simple/case6/fullwidth.jpg"
 ---

@@ -12,4 +12,6 @@ number: '3'
 order: '2'
 layout: case
 collection: cases
+thumbnail: "/img/derivatives/simple/case3/thumbnail.jpg"
+full: "/img/derivatives/simple/case3/fullwidth.jpg"
 ---

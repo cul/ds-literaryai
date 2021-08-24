@@ -23,4 +23,6 @@ number: '1'
 order: '0'
 layout: case
 collection: cases
+thumbnail: "/img/derivatives/simple/case1/thumbnail.jpg"
+full: "/img/derivatives/simple/case1/fullwidth.jpg"
 ---
