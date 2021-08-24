@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+
+<h2 class='page-title'>{{ page.title }}</h2>
+
+
+{{ page.text | markdownify }}
+
+
+{% include collection_gallery.html collection='litai' facet_by='case' only=page.number %}

@@ -67,6 +67,11 @@ collections:
     output: true
   cases:
     output: true
+    layout: 'case' # the layout for the pages to use
+    metadata:
+      source: 'cases.csv' # path to the metadata file within `_data`
+    images:
+      source: 'raw_images/cases'
   litai: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'litai_item' # the layout for the pages to use
