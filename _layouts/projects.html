@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class='exhibit-meta'>
+  <h1 class='exhibit-title'>{{ page.label }}</h1>
+  <h3 class='exhibit-author'>by {{ page.author }}</h3>
+</div>
+
+
+{% include reduced_parallax_image.html collection='projects' pid=page.pid y='50%' %}
+
+
+{% capture text %}
+  {% include projects/{{page.pid}}.md %}
+{% endcapture %}
+
+ <div>{{ text | markdownify }}</div>
+
