@@ -1,4 +1,5 @@
 <dl class='metadata-block'>
+  <h3>Additional Information</h3>
   {% for item in include.meta %}
     {% if item.value contains 'page.' %}
       {% assign key = item.value | remove: 'page.' %}

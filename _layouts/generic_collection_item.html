@@ -28,6 +28,20 @@ layout: default
 {% endif %}
 
 {% comment %}
+  The block below controls the item description
+{% endcomment %}
+
+<dl class='metadata-block'>
+  <h3>Introduction</h3>
+        
+{% capture desc %}
+  {% include descriptions/{{page.pid}}.md %}
+{% endcapture %}
+
+  <dd>{{ desc | markdownify }}</dd>
+</dl>
+
+{% comment %}
   The block below controls the item metadata table
 {% endcomment %}
 
@@ -39,3 +53,4 @@ layout: default
 {% if metadata.size %}
   {% include item_metadata.html meta=metadata %}
 {% endif %}
+
