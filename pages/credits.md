@@ -4,6 +4,12 @@ title: Credits
 permalink: '/credits/'
 ---
 
+## The Team
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## Wax
+
 Wax is a minimal computing ([minicomp](https://github.com/minicomp)) project led by [Marii Nyröp](http://marii.info/). The project is currently maintained by Marii Nyröp at New York University and [Alex Gil](https://github.com/elotroalex) at Columbia University Libraries. It uses open source libraries and frameworks including [Jekyll](https://jekyllrb.com), [IIIF](http://iiif.io), [OpenSeaDragon](https://openseadragon.github.io/), [Rake](https://ruby.github.io/rake/), and [ElasticLunr](http://elasticlunr.com/). Wax builds upon work by [Peter Binkley](https://github.com/pbinkley), [David Newbury](https://github.com/workergnome), and others.
 
 We welcome and encourage contributors and maintainers. Please get in touch, or [fork the project on GitHub](https://github.com/minicomp/wax). If you encounter any issue with the software, please [create an issue](https://github.com/minicomp/wax/issues) on our repository or post a comment on [Gitter](https://gitter.im/minicomp/wax/).
