@@ -1,3 +1,27 @@
 .toc {
   list-style-type: circle;
 }
+
+.navbar-full-brand {
+  display: block;
+  position: absolute;
+  line-height: 1.6rem;
+  padding: 1rem 0;
+}
+
+.navbar-subtitle {
+  display: block;
+  font-size: 1rem;
+  white-space: normal;
+  color: gray;
+}
+
+@media (max-width: 575.98px) {
+  .navbar-subtitle {
+    display: none;
+  }
+}
+
+#wax-header {
+  padding: 2rem;
+}
