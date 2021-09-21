@@ -3,8 +3,8 @@ layout: page
 show_title: false
 banner:
   collection: litai
-  pid: i01
-  y: 0%
+  pid: i13
+  y: -1%
   height: "500px"
 ---
 
