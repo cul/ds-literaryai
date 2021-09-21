@@ -127,8 +127,7 @@ menu:
     #   - label: "Second Class"
     #     link: "#"
 
-  - label: "Browse"
-    link: "/projects"
+  - label: "Exhibit"
     sub:
       - label: "Case No. 1"
         link: "/case/1/"
