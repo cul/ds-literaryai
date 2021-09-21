@@ -95,9 +95,6 @@ collections:
 
 menu:
   - label: "About"
-    sub:
-      - label: "Credits"
-        link: "/credits/"
   - label: "Projects"
     sub:
       - label: "First Year"
@@ -125,6 +122,8 @@ menu:
         link: "/case/7/"
       - label: "Case No. 8"
         link: "/case/8/"
+  - label: "Credits"
+    link: "/credits/"
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
