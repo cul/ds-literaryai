@@ -1,4 +1,4 @@
-@import 'bootstrap';
+@import "bootstrap";
 
 /*
 
@@ -6,7 +6,8 @@ main body & containers
 
 */
 
-html, body {
+html,
+body {
   margin: 0;
   padding: 0;
   background-color: $bg-color;
@@ -32,7 +33,7 @@ p {
   color: $text-color;
   max-width: 100%;
   margin-bottom: $less-margin;
-  letter-spacing: .02rem;
+  letter-spacing: 0.02rem;
   font-weight: 400;
   font-size: 1rem;
   line-height: 1.75rem;
@@ -106,7 +107,12 @@ content section
   padding-top: $margin;
   padding-bottom: 5rem;
 
-  h1, h2, h3, h4, h5, h5 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h5 {
     margin-bottom: $less-margin;
     margin-top: $more-margin;
     font-family: $heading-font;
@@ -147,6 +153,10 @@ content section
     padding-left: 0;
   }
 
+  hr {
+    margin: 2rem 0;
+  }
+
   li {
     font-family: $body-font;
     color: $text-color;
@@ -162,9 +172,10 @@ content section
       margin-bottom: $super-margin;
 
       .exhibit-author {
-        margin-top: $more-margin;
-        margin-bottom: 1em;
+        margin-top: 0;
+        margin-bottom: 0;
         padding-bottom: 0;
+        padding-top: 0.66rem;
       }
       .exhibit-title {
         margin-top: 0;
@@ -219,18 +230,18 @@ content section
   .footer-description {
     font-family: $heading-font;
     margin: 0;
-    font-size: .9em;
+    font-size: 0.9em;
     line-height: 1.2;
   }
   .footer-copyright {
     margin: $margin 0 $margin 0;
-    font-size: .9em;
+    font-size: 0.9em;
     line-height: 1.2;
   }
   .footer-links {
     font-family: $heading-font;
     margin: 0;
-    font-size: .9em;
+    font-size: 0.9em;
     line-height: 1.2;
   }
   .footer-logos {
@@ -239,11 +250,10 @@ content section
       text-decoration: none;
     }
     img {
-      height: 35px
+      height: 35px;
     }
   }
 }
-
 
 .wax-inline-container {
   @extend .container;
@@ -269,11 +279,9 @@ content section
 }
 
 .wax-parallax.top-banner {
-
 }
 
 .wax-parallax {
-
   .parallax-image {
     background-color: $neutral;
     width: 100vw;
@@ -307,22 +315,22 @@ item pages (iiif + metadata)
 
 */
 .item-view {
-  width:           110%;
-  display:         inline-flex;
-  flex-wrap:       nowrap;
+  width: 110%;
+  display: inline-flex;
+  flex-wrap: nowrap;
   justify-content: space-between;
-  align-items:     center;
-  margin-left:     -5%;
+  align-items: center;
+  margin-left: -5%;
 
   .image-viewer {
     position: relative;
     text-align: center;
-    height:   $viewer-height;
+    height: $viewer-height;
     max-height: 80vh;
     background-color: $neutral;
-    width:    100%;
-    border:   1px solid $neutral;
-    margin:   $more-margin 0 $more-margin 0;
+    width: 100%;
+    border: 1px solid $neutral;
+    margin: $more-margin 0 $more-margin 0;
 
     a {
       color: inherit !important;
@@ -339,7 +347,6 @@ item pages (iiif + metadata)
     }
   }
 
-
   .pagination-link {
     width: 5%;
     text-align: center;
@@ -351,14 +358,14 @@ item pages (iiif + metadata)
       text-decoration: none !important;
       background-color: $bg-color;
       margin: 0;
-      &:hover{
+      &:hover {
         color: $accent-dark !important;
       }
     }
   }
 
   #prevlink {
-    float:left;
+    float: left;
   }
   .nextlink {
     float: right;
@@ -379,16 +386,15 @@ search box
 
 */
 
-
-.search-block{
+.search-block {
   margin: $more-margin 0 $more-margin 0;
-  #search{
+  #search {
     border-style: groove;
     border-width: 2px;
     margin-bottom: $more-margin;
     &:focus {
-        box-shadow: none ;
-        border-color: $neutral;
+      box-shadow: none;
+      border-color: $neutral;
     }
   }
   #results {
@@ -409,30 +415,28 @@ search box
         p {
           margin: 0 !important;
           padding: 0;
-          .title{
+          .title {
             color: $accent-light;
           }
         }
       }
       &:hover {
-        background-color: $neutral
+        background-color: $neutral;
       }
     }
   }
 }
 
-
-
 .wax-gallery-container {
   .facet-buttons {
     .facet {
       @extend .btn-outline-secondary;
-      margin-right: .5em;
+      margin-right: 0.5em;
       margin-top: 1rem;
       font-family: $heading-font;
       border-color: $text-color;
     }
-    .active{
+    .active {
       @extend .facet;
       background-color: $text-color;
       color: $bg-color;
@@ -447,7 +451,7 @@ search box
 
     .gallery-item {
       padding: 0;
-      margin: .25rem;
+      margin: 0.25rem;
       background-color: #ffffff;
       max-height: $thumbnail-height;
       max-width: $thumbnail-width;
@@ -471,7 +475,7 @@ search box
 
         &:hover {
           .overlay {
-            opacity: .7;
+            opacity: 0.7;
             cursor: pointer;
             .info {
               opacity: 1;
@@ -495,11 +499,11 @@ search box
           -ms-transform: scale(0);
           transform: scale(0);
           font-weight: normal;
-          font-size: .9rem;
+          font-size: 0.9rem;
           line-height: 1rem;
           overflow: hidden;
           display: table-cell;
-          padding: .4rem;
+          padding: 0.4rem;
           vertical-align: center;
         }
 
@@ -528,7 +532,7 @@ search box
           left: 0;
           background-color: $accent-light;
           opacity: 0;
-          -webkit-transition:opacity 0.5s ease-in-out;
+          -webkit-transition: opacity 0.5s ease-in-out;
           transition: opacity 0.5s ease-in-out;
           display: table;
           height: 200px;
@@ -538,13 +542,12 @@ search box
   }
 }
 
-
 .dataTables_wrapper {
   width: 100% !important;
   margin: $super-margin 0 $super-margin 0;
 }
 
-.sq-thumb-sm{
+.sq-thumb-sm {
   object-fit: cover;
   object-position: 50% 20%;
   width: 80px;
