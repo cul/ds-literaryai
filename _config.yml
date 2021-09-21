@@ -135,8 +135,6 @@ footer:
   links:
     - label: "GitHub"
       link: "https://github.com/cul/"
-    - label: "Credits"
-      link: "/credits"
     - label: "Contact"
       link: "mailto:agil@columbia.edu"
   logos:
