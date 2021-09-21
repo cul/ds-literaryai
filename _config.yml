@@ -18,19 +18,19 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Literary AI'
-description:      'Lorem ipsum'
-url:              ''
-baseurl:          '/litai'
-copyright:        'Copyright 2021, Columbia University Libraries. Contents offered with a CC-BY 4.0 International License'
-logo:             '/assets/logo.png'
+title: "Literary AI"
+description: "Lorem ipsum"
+url: ""
+baseurl: "/litai"
+copyright: "Copyright 2021, Columbia University Libraries. Contents offered with a CC-BY 4.0 International License"
+logo: "/assets/logo.png"
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
 # ---------------------------------------------------------------
 # Best not to mess with these unless you know what you're doing!
 
-permalink: 'pretty'
+permalink: "pretty"
 sass:
   style: compressed
 exclude:
@@ -42,16 +42,15 @@ exclude:
 incremental: false
 webrick:
   headers:
-    'Access-Control-Allow-Origin': '*'
+    "Access-Control-Allow-Origin": "*"
 kramdown:
- auto_ids:       true
- footnote_nr:    1
- entity_output:  as_char
- footnote_backlink: "&#x21a9;&#xfe0e;"
- toc_levels:     1..6
- smart_quotes:   lsquo,rsquo,ldquo,rdquo
- enable_coderay: false
-
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
 
 # --------------------------------------------------------------
 # COLLECTION SETTINGS
@@ -67,25 +66,25 @@ collections:
     output: true
   projects:
     output: true
-    layout: 'projects' # the layout for the pages to use
+    layout: "projects" # the layout for the pages to use
     metadata:
-      source: 'projects.csv' # path to the metadata file within `_data`
+      source: "projects.csv" # path to the metadata file within `_data`
     images:
-      source: 'raw_images/projects'
+      source: "raw_images/projects"
   cases:
     output: true
-    layout: 'case' # the layout for the pages to use
+    layout: "case" # the layout for the pages to use
     metadata:
-      source: 'cases.csv' # path to the metadata file within `_data`
+      source: "cases.csv" # path to the metadata file within `_data`
     images:
-      source: 'raw_images/cases'
+      source: "raw_images/cases"
   litai: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'litai_item' # the layout for the pages to use
+    layout: "litai_item" # the layout for the pages to use
     metadata:
-      source: 'litai.csv' # path to the metadata file within `_data`
+      source: "litai.csv" # path to the metadata file within `_data`
     images:
-      source: 'raw_images/litai' # path to the directory of images within `_data`
+      source: "raw_images/litai" # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -97,7 +96,7 @@ collections:
 
 search:
   main:
-    index: '/search/index.json' # file the index will get written to
+    index: "/search/index.json" # file the index will get written to
     collections:
       litai:
         content: true # whether or not to index page content
@@ -115,48 +114,48 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'About'
+  - label: "About"
     sub:
-      - label: 'Credits'
-        link: '/credits/'
-  - label: 'Projects'
+      - label: "Credits"
+        link: "/credits/"
+  - label: "Student Projects"
     sub:
-      - label: 'Project No. 1'
-        link: '/projects/s01/'
-      - label: 'Project No. 2'
-        link: '/projects/s02/'
-      - label: 'Project No. 3'
-        link: '/projects/s03/'
-      - label: 'Project No. 4'
-        link: '/projects/s04/'
-      - label: 'Project No. 5'
-        link: '/projects/s05/'
-      - label: 'Project No. 6'
-        link: '/projects/s06/'
-      - label: 'Project No. 7'
-        link: '/projects/s07/'       
-  - label: 'Browse'
+      - label: "Project No. 1"
+        link: "/projects/s01/"
+      - label: "Project No. 2"
+        link: "/projects/s02/"
+      - label: "Project No. 3"
+        link: "/projects/s03/"
+      - label: "Project No. 4"
+        link: "/projects/s04/"
+      - label: "Project No. 5"
+        link: "/projects/s05/"
+      - label: "Project No. 6"
+        link: "/projects/s06/"
+      - label: "Project No. 7"
+        link: "/projects/s07/"
+  - label: "Browse"
     sub:
-      - label: 'Case No. 1'
-        link: '/case/1/'
-      - label: 'Case No. 2'
-        link: '/case/2/'
-      - label: 'Case No. 3'
-        link: '/case/3/'
-      - label: 'Case No. 4'
-        link: '/case/4/'
-      - label: 'Case No. 5'
-        link: '/case/5/'
-      - label: 'Case No. 6'
-        link: '/case/6/'
-      - label: 'Case No. 7'
-        link: '/case/7/'
-      - label: 'Case No. 8'
-        link: '/case/8/'
-  - label: 'Search'
-    link: '/search/'
+      - label: "Case No. 1"
+        link: "/case/1/"
+      - label: "Case No. 2"
+        link: "/case/2/"
+      - label: "Case No. 3"
+        link: "/case/3/"
+      - label: "Case No. 4"
+        link: "/case/4/"
+      - label: "Case No. 5"
+        link: "/case/5/"
+      - label: "Case No. 6"
+        link: "/case/6/"
+      - label: "Case No. 7"
+        link: "/case/7/"
+      - label: "Case No. 8"
+        link: "/case/8/"
+  - label: "Search"
+    link: "/search/"
   # - label: 'Reuse'
-    # link: '/reuse/'
+  # link: '/reuse/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
@@ -165,13 +164,12 @@ menu:
 
 footer:
   links:
-    - label: 'GitHub'
-      link: 'https://github.com/cul/'
-    - label: 'Credits'
-      link: '/credits'
-    - label: 'Contact'
-      link: 'mailto:agil@columbia.edu'
+    - label: "GitHub"
+      link: "https://github.com/cul/"
+    - label: "Credits"
+      link: "/credits"
+    - label: "Contact"
+      link: "mailto:agil@columbia.edu"
   logos:
-    - img: '/img/logo.png'
-
+    - img: "/img/logo.png"
 # FIN
