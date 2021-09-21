@@ -3,9 +3,9 @@ layout: page
 show_title: false
 banner:
   collection: litai
-  pid: i02
-  y: 25%
-  height: '500px'
+  pid: i01
+  y: 0%
+  height: "500px"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ipsum suspendisse ultrices gravida dictum fusce ut. At tellus at urna condimentum mattis. Cursus sit amet dictum sit amet justo donec enim. Cursus risus at ultrices mi tempus imperdiet nulla. Purus non enim praesent elementum facilisis leo vel fringilla est. Augue lacus viverra vitae congue eu consequat. Nec nam aliquam sem et tortor consequat id porta. Feugiat in fermentum posuere urna nec tincidunt. Nullam ac tortor vitae purus faucibus ornare suspendisse sed.

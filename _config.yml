@@ -87,26 +87,6 @@ collections:
       source: "raw_images/litai" # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
-# SEARCH INDEX SETTINGS
-# --------------------------------------------------------------
-# You can create multiple search indexes below (though only one is
-# recommended!) by specifying
-# an `index` file to write it to and some `collections` for it to index
-# and running `$ bundle exec rake wax:search` .
-
-search:
-  main:
-    index: "/search/index.json" # file the index will get written to
-    collections:
-      litai:
-        content: true # whether or not to index page content
-        fields: # the metadata fields to index
-          - label
-          - author
-          - publisher
-          - location
-
-# --------------------------------------------------------------
 # SITE MENU SETTINGS
 # --------------------------------------------------------------
 # Each menu item needs a `label` (whats shown), and a `link`
@@ -145,10 +125,6 @@ menu:
         link: "/case/7/"
       - label: "Case No. 8"
         link: "/case/8/"
-  - label: "Search"
-    link: "/search/"
-  # - label: 'Reuse'
-  # link: '/reuse/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
