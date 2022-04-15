@@ -1,48 +1,79 @@
 ---
 layout: page
-title: What is Wax?
+title: On Literary AI
 permalink: /about/
 ---
 
-**Wax helps you create digital exhibits.**   
-A digital exhibit is a collection of curated cultural artifacts—manuscripts, paintings, photographs, sculptures, etc—often accompanied by an explicit narrative or argument. Though Wax focuses on images and text, it could be used for sound or video collections with some customization.
+*The Literary History of Artificial Intelligence* is a collaboration
+between the Columbia English Department, the Columbia University Rare
+Books & Manuscript Library, and Columbia University's Digital
+Scholarship department.
 
-**Wax is an extensible workflow based on minimal computing principles.**  
-Wax is hyper-aware of differences in resources, control and access around the world and close to home. As a result, it is purposefully lightweight: a few Ruby gems, some customizable UI components, good documentation and (hopefully soon!) recipes for creating, deploying, and maintaining custom digital exhibitions.
+This exhibition explores the long, shared history of literature and
+computation through the Columbia Library's holdings. We present texts
+that participate in early debates about whether writing was a skill to
+be honed or a gift to be appreciated and whether the skills of writing
+could be learned and even made into repeatable algorithms. Is writing
+like any other craft that can be learned and taught? Following a
+timeline from circa 1890--1970, this exhibition explores
+professional manuals, devices, and techniques that promised to make
+writing easier---and even to automate it. *The Literary History of AI*
+showcases examples of algorithmic composition, such as prose and poetry
+written by machines, alongside literature written with the aid of
+algorithmic and combinatorial devices. This exhibition broadly tracks
+two broad stories related to the literary history of AI: production and
+analysis.
 
-**The exhibition sites created by Wax are static.**  
-This means they consist of flat HTML, CSS, and JavaScript files that don't need to communicate in a complex way back to a server. This makes them cheaper, safer, and generally easier to maintain.
+## AI & Literary Production: Romance, Mystery, and Defense Aeronautics
 
-**The skills needed to create Wax sites are agnostic.**  
-This means they are largely transferable for use in other digital projects. 'Learning Wax' does not mean learning how to use a platform. It involves learning the fundamentals of web development, data management, and [plain text editing](https://zapier.com/blog/beginner-ultimate-guide-markdown/) while leveraging a few great open source libraries and frameworks along the way.
+The first story follows experiments in the genesis of literature as a
+professional and technical craft, facilitated by writing manuals, guides
+for churning out mystery or romance plots, such as Wycliffe Hill's Plot
+Genies, and plot generators such as William Wallace Cook's *Plotto*
+series. Automated text generation catalyzed a wave of early 20th-century
+patents, from Arthur Blanchard's "movie-writer" machine and Henrietta
+Rose Montague's "name selector." Some how-to manuals incorporated simple
+plot generators, with spinning devices or automatic number generators
+that would guide would-be novelists past writers' block. We follow these
+professional how-to manuals into mid-twentieth century computer
+experimentation in algorithmic and automated writing, from Christopher
+Strachey, who wrote a love letter program in the 1940s, to Margaret
+Masterman, a linguist who pioneered the use of computers to aid
+automatic translation. The mid 20th-century saw an existential question
+arise as to whether programs should be written based on frames or
+grammar, a divide that drew much of its vocabulary from comparing
+literary genres to linguistic rules. Were situational specifics or
+universal linguistic structures the better way to teach text-generating
+computers to write? This debate would influence early experiments with
+chat bots, baseball analytics, defense training programs, and
+match-making algorithms.
 
-**Wax keeps the collection presentation separate from the collection data.**  
-The Wax workflow starts with making standardized image files and metadata records and builds around them, handling canonical information, scholarly content, and site styling differently and deliberately. This makes it easier for you or others to share, reuse and reimagine your collection data in other contexts.
+*The Literary History of AI* showcases how early 20th-century popular
+texts for aspiring screenplay writers, romance novelists, and pulp
+fictioneers influence and shape contemporary, machine learning-based
+tools used in automating aviation accident reports and defense
+logistics.
 
-## Who is Wax for?
+## AI & Literary Analysis: Character types, story pieces, chat bots, and medical care
 
-Wax was created for individuals and groups who either don't have or don't want to use a lot of resources to create their scholarly or cultural exhibits. It's best suited for folks who are willing to take on some technical responsibility in exchange for a lot of flexibility.
+The second story tracks the use of algorithms to analyze literature,
+highlighting works such as Columbia alumna Harriot Fansler's dissection
+of *Types of Prose Narratives,* which she called a "textbook for the
+story writer" to Georges Polti's *Les trente-six situations dramatiques*
+(1895), which categorized what he theorized were the 36 timeless
+situations that structured human experience, from vengeance and
+retribution to love and sacrifice. This section of the exhibition
+includes analyses and compendia of folk tales, diagrams of plot
+structures, including Harry Stephen Keeler's "web-word" designs, and
+Carolyn Well's distillation of the mystery novel.
 
-For beginners, Wax has a relatively high, but general-purpose learning curve. To get the most out of Wax, you should have some familiarity with:
-
-- Using an interactive shell (e.g., Bash/Terminal) to install and interact with programs, files, and directories on your local computer.
-- Using Git and GitHub to version control and collaborate on projects.
-- Using Jekyll to generate static sites.
-- Creating and normalizing data files (e.g., CSV, JSON, YAML)
-- Using file-naming conventions and best practices.
-- Editing HTML, CSS, and some JavaScript.
-
-**However, Wax is also great for teaching or learning the skills above!** For examples of digital pedagogy via the creation of Wax exhibitions, check out [this workshop](https://www.columbia.edu/content/events/introduction-minimal-computing-humanities-building-exhibit-primary-sources-using-wax), [this GitHub repository](https://github.com/stylerevolution/stylerevolution.github.io), and [this custom Wax site](https://stylerevolution.github.io/).
-
-**Wax is also phenomenal for professionals who play a facilitating role**, such as Digital Scholarship Librarians or Coordinators. With some practice, Wax substantially reduces the time to production and post-production maintenance costs for you and your team. In the most common scenario, students, faculty, colleagues or any other collaborators just have to provide you with a properly formatted spreadsheet and the text for the exhibits. The extras are up to you.
-
-
-## So what does the Wax workflow *look like?*
-
-Below is a diagram to give you a zoomed-out view. In summary, you create a file of metadata records for your collection (in CSV, YAML, or JSON format), organize your collection image files, and put both in the Jekyll site folder. After updating your configuration, you run a few command line tasks to prepare the data and metadata for use by the Jekyll site. Jekyll then uses special layouts and Wax components to build the exhibit and spits them out as static pages ready to publish.
-
-From there, you can run tests on your site to catch errors and decide where and how to put it online or in offline media.
-
-<a href="{{ '/img/wax_workflow.jpg' | absolute_url }}">
-  <img src="{{ '/img/wax_workflow.jpg' | absolute_url }}"/>
-</a>
+The interest in narrative analysis and plot visualization also catalyzed
+the development of new techniques for organizing story elements.
+Databases, scrapbooks, and notecards forecast zettelkasten, Evernote,
+and Google Docs. Information storage was increasingly understood to be
+central both to analysis and to composition. These materials illustrate
+how early twentieth-century techniques used to generate prose were
+paralleled by advances in natural language processing, which today
+animate narratively "intelligent" bots such as Apple's *Siri* and
+Amazon's *Alexa*, as well as influence interactive and automated forms
+of medical diagnostics.
