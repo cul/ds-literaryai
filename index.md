@@ -26,9 +26,9 @@ showcases examples of algorithmic composition, such as prose and poetry
 written by machines, alongside literature written with the aid of
 algorithmic and combinatorial devices. This exhibition broadly tracks
 two broad stories related to the literary history of AI: production and
-analysis.
+analysis. [Learn More...](/about/)
 
-[Learn more...](/about/)
+Or...
 
 ### Select a Case from the Exhibit
 
