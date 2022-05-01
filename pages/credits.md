@@ -6,7 +6,7 @@ permalink: '/credits/'
 
 ## The Team
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[Alex Gil](http://www.elotroalex.com/) is the Digital Scholarship Librarian at Columbia University. Melina Moe is Curator of Literature at Columbia University's Rare Book & Manuscript Library. Jenna Schoen is a Lecturer in Columbia University's Department of English and Comparative Literature. [Dennis Tenen](http://dennistenen.com/) is Associate Professor of English in Columbia University's Department of English and Comparative Literature. John Tofanelli is the Librarian for British and American History and Literature. This project was a collaboration among the Rare Book & Manuscript Library, Digital Scholarship, Humanities & History Librarians, and the Department of English and Comparative Literature at Columbia University. 
 
 ## Wax
 
