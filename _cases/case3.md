@@ -1,6 +1,6 @@
 ---
 pid: case3
-label: Case No. 3
+label: 'Case 3: Text Generators'
 permalink: "/case/3/"
 text: |-
   The scholarly structuralist texts and professional writer’s manuals featured in the previous cases share an imperative to distill stories into their basic elements. The early 20th century saw a rise not only in analytic texts, but also in manuals, devices, and methods designed to generate text.  These writers’ aids helped writers arrange plots, produce narrative tension, and create character webs.  Some outlined strategies for generating text through straightforwardly mechanical means, shuffling plot elements to create new permutations. The Plot Genie and Plotto, for example, gave aspiring writers long lists of characters, attributes, settings, conflicts, and resolutions, as well as a device (such as a wheel) that made chance and algorithmic or mechanical selection part of the writing process.

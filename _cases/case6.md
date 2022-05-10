@@ -1,6 +1,6 @@
 ---
 pid: case6
-label: Case No. 6
+label: 'Case 6: Databases for Writing'
 permalink: "/case/6/"
 text: 'Narrative analyses, text generators, and plot visualizations could all help
   writers devise plots, settings, and characters. But writers still needed to flesh

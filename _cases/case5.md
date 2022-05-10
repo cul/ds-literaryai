@@ -1,6 +1,6 @@
 ---
 pid: case5
-label: Case No. 5
+label: 'Case 5: Diagramming Plot'
 permalink: "/case/5/"
 text: Plot became spatial in some 20th-century attempts to understand and schematize
   narrative structure.  In writing manuals and journals, diagrammers charted major

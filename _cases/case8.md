@@ -1,6 +1,6 @@
 ---
 pid: case8
-label: Case No. 8
+label: 'Case 8: Writing Algorithms at Work'
 permalink: "/case/8/"
 text: The mechanical plot wheels and first-generation story-generators may feel like
   AI-ancient history, but these early 20th century text generators and writing devices

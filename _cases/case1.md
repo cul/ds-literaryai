@@ -1,6 +1,6 @@
 ---
 pid: case1
-label: Case No. 1
+label: 'Case 1: Genius vs. Technique'
 permalink: "/case/1/"
 text: Is writing a technical skill that can be learned, practiced and polished? Or,
   is there an ineffable quality to writing that springs from a unique imagination?

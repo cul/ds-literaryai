@@ -1,6 +1,6 @@
 ---
 pid: case4
-label: Case No. 4
+label: 'Case 4: Genre Fiction'
 permalink: "/case/4/"
 text: |-
   There has been a mutually vitalizing relationship between genre fiction and the periodical press stretching back as far as the emergence of mass-market magazines (which, in the United States, can be dated to the mid nineteenth century). The examples showcased here from the American periodical press

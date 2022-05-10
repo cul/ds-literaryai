@@ -1,6 +1,6 @@
 ---
 pid: case7
-label: Case No. 7
+label: 'Case 7: Frames vs. Grammar in First Gen AI'
 permalink: "/case/7/"
 text: "In the 1950s-1970s, computer scientists began programming their own text generators.
   Like the writers’ aids of the early 20th century, these programs relied on structural

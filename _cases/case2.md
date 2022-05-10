@@ -1,6 +1,6 @@
 ---
 pid: case2
-label: Case No. 2
+label: 'Case 2: Breaking Down Stories'
 permalink: "/case/2/"
 text: As early 20th-century writers produced technical writing manuals and aids for
   constructing plots that punctured the notions of literary genius, literary scholars
