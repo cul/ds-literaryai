@@ -21,7 +21,7 @@
 title: "Literary AI"
 description: "The Literary History of Artificial Intelligence is a collaboration between the Columbia English Department, the Columbia University Rare Books & Manuscript Library, and Columbia University's Digital Scholarship department."
 url: ""
-baseurl: ""
+baseurl: "/litai"
 copyright: "Copyright 2021, Columbia University Libraries. Contents offered with a CC-BY 4.0 International License"
 logo: "/assets/logo.png"
 
