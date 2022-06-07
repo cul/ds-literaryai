@@ -96,10 +96,10 @@ collections:
 menu:
   - label: "About"
     link: "/about/"
-  - label: "Projects"
-    sub:
-      - label: "First Year"
-        link: "/first"
+  # - label: "Projects"
+  #   sub:
+  #     - label: "First Year"
+  #       link: "/first"
       # - label: "[Dennis's Essay]"
       #   link: "#"
     #   - label: "Second Class"
