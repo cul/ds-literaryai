@@ -21,11 +21,15 @@
     display: none;
   }
 
+  #wax-header .navbar-brand {
+    font-size: 1.4rem;
+  }
+
 
 }
 
 .navbar-toggler {
-  position: fixed;
+  position: absolute;
   right: 0;
   margin-right: 1rem;
 }
